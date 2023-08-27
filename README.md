@@ -49,8 +49,11 @@ DELETE /condutores/{id}: Deleta um condutor pelo ID.
 ## Ocorrências:
 
 GET /ocorrencias: Lista todas as ocorrências.
+
 POST /ocorrencias: Cria uma nova ocorrência.
+
 PUT /ocorrencias/{id}: Atualiza uma ocorrência pelo ID.
+
 DELETE /ocorrencias/{id}: Deleta uma ocorrência pelo ID.
 
 
