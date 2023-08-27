@@ -37,8 +37,11 @@ mvn quarkus:dev
 ## Condutores:
 
 GET /condutores: Lista todos os condutores.
+
 POST /condutores: Cria um novo condutor.
+
 PUT /condutores/{id}: Atualiza um condutor pelo ID.
+
 DELETE /condutores/{id}: Deleta um condutor pelo ID.
 
 ## Ocorrências:
