@@ -13,7 +13,9 @@ Configuração simplificada.
 ## Pré-requisitos 📋
 
 Java 11 ou superior.
+
 Gradle.
+
 PostgreSQL.
 
 ## Configuração e Execução 🛠
