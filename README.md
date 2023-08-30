@@ -1,4 +1,4 @@
-# Aplicação CondutoresAPI - Quarkus Reativo com PostgreSQL
+#  
 
 Codificação em Java para aplicação usando programação reativa foi desenvolvida utilizando o framework Quarkus e tem como objetivo fornecer uma API RESTful para gerenciar condutores e ocorrências. Ela utiliza PostgreSQL como banco de dados e é construída com práticas de programação reativa.
 
